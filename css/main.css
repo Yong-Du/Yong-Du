@@ -156,3 +156,9 @@ navbar input[type=text] {
   margin-right: auto;
   max-width: 300px; /* to keep aspect ratio of image. */
 }
+
+/* Large rounded green border */
+hr.new5 {
+  border: 3px dashed green;
+  border-radius: 5px;
+}
